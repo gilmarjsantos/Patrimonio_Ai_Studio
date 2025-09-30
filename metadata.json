@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Controle de Patrimônio",
+  "description": "Um sistema web para registrar, gerenciar e consultar os bens patrimoniais de uma organização, incluindo cadastro de itens, locais físicos, usuários e funcionalidade de inventário.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
